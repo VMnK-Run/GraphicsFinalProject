@@ -1,0 +1,86 @@
+﻿  bezier_surface.cpp
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\mesh.h(89,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\bezier_surface.cpp(76,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\bezier_surface.cpp(79,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\bezier_surface.cpp(82,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\bezier_surface.cpp(85,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\bezier_surface.cpp(96,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\bezier_surface.cpp(99,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\bezier_surface.cpp(102,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\bezier_surface.cpp(105,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\bezier_surface.cpp(108,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  LoadPlyModel.cpp
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\LoadPlyModel.cpp(7,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\Libraries\Include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\mesh.h(89,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\texture.h(307,33): warning C4305: “初始化”: 从“double”到“float”截断
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\texture.h(345,30): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\texture.h(372,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\texture.h(374,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\texture.h(376,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(31,18): warning C4305: “初始化”: 从“double”到“float”截断
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(96,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(97,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(101,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(102,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(104,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(105,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(114,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(364,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(367,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(370,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(373,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(383,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(386,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(389,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(392,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(395,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(559,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(640,33): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(644,33): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(709,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(710,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(711,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(712,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(829,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(860,19): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(867,11): warning C4305: “+=”: 从“double”到“float”截断
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(870,12): warning C4305: “+=”: 从“double”到“float”截断
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(874,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(876,18): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(887,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(938,38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(1074,19): warning C4305: “-=”: 从“double”到“float”截断
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\main.cpp(1102,42): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+  stb_image_wrap.cpp
+  正在生成代码...
+  glad.c
+main.obj : error LNK2019: 无法解析的外部符号 glfwInit，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwTerminate，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwWindowHint，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwCreateWindow，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwWindowShouldClose，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwSetWindowShouldClose，函数 "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwSetFramebufferSizeCallback，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwPollEvents，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwSetInputMode，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwGetKey，函数 "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwSetCursorPosCallback，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwSetScrollCallback，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwGetTime，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwMakeContextCurrent，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwSwapBuffers，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwGetProcAddress，函数 main 中引用了该符号
+.\Libraries\Libs\glfw3.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+.\Libraries\Libs\assimp.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\x64\Debug\Project1.exe : fatal error LNK1120: 16 个无法解析的外部命令

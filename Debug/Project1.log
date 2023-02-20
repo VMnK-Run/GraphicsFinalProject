@@ -1,0 +1,85 @@
+﻿  bezier_surface.cpp
+D:\TJU\22231\计算机图形技术\大作业\code\bezier_surface.cpp(76,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\bezier_surface.cpp(79,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\bezier_surface.cpp(82,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\bezier_surface.cpp(85,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\bezier_surface.cpp(96,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\bezier_surface.cpp(99,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\bezier_surface.cpp(102,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\bezier_surface.cpp(105,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\bezier_surface.cpp(108,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\bezier_surface.cpp(126,20): warning C4018: “<”: 有符号/无符号不匹配
+  LoadPlyModel.cpp
+D:\TJU\22231\计算机图形技术\大作业\code\LoadPlyModel.cpp(7,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+D:\TJU\22231\计算机图形技术\大作业\code\Libraries\Include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+D:\TJU\22231\计算机图形技术\大作业\code\texture.h(307,33): warning C4305: “初始化”: 从“double”到“float”截断
+D:\TJU\22231\计算机图形技术\大作业\code\texture.h(348,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\TJU\22231\计算机图形技术\大作业\code\texture.h(372,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\texture.h(374,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\texture.h(376,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(31,18): warning C4305: “初始化”: 从“double”到“float”截断
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(96,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(97,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(101,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(102,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(104,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(105,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(114,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(341,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(364,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(367,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(370,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(373,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(383,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(386,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(389,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(392,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(395,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(525,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(640,33): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(644,33): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(663,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(688,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(709,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(710,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(711,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(712,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(829,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(860,19): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(867,11): warning C4305: “+=”: 从“double”到“float”截断
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(870,12): warning C4305: “+=”: 从“double”到“float”截断
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(874,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(876,18): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(887,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(938,38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(1074,19): warning C4305: “-=”: 从“double”到“float”截断
+D:\TJU\22231\计算机图形技术\大作业\code\main.cpp(1102,42): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+  stb_image_wrap.cpp
+  正在生成代码...
+  glad.c
+glfw3.lib(context.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(context.obj)”或在“D:\TJU\22231\计算机图形技术\大作业\code\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(init.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(init.obj)”或在“D:\TJU\22231\计算机图形技术\大作业\code\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(input.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(input.obj)”或在“D:\TJU\22231\计算机图形技术\大作业\code\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(monitor.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(monitor.obj)”或在“D:\TJU\22231\计算机图形技术\大作业\code\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(vulkan.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(vulkan.obj)”或在“D:\TJU\22231\计算机图形技术\大作业\code\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(window.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(window.obj)”或在“D:\TJU\22231\计算机图形技术\大作业\code\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_init.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_init.obj)”或在“D:\TJU\22231\计算机图形技术\大作业\code\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_joystick.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_joystick.obj)”或在“D:\TJU\22231\计算机图形技术\大作业\code\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_monitor.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_monitor.obj)”或在“D:\TJU\22231\计算机图形技术\大作业\code\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_time.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_time.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_thread.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_thread.obj)”或在“D:\TJU\22231\计算机图形技术\大作业\code\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_window.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_window.obj)”或在“D:\TJU\22231\计算机图形技术\大作业\code\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(wgl_context.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(wgl_context.obj)”或在“D:\TJU\22231\计算机图形技术\大作业\code\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(egl_context.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(egl_context.obj)”或在“D:\TJU\22231\计算机图形技术\大作业\code\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(osmesa_context.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(osmesa_context.obj)”或在“D:\TJU\22231\计算机图形技术\大作业\code\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Project1.vcxproj -> D:\TJU\22231\计算机图形技术\大作业\code\Debug\Project1.exe

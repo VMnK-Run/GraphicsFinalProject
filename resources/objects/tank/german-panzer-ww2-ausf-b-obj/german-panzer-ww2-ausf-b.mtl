@@ -1,0 +1,57 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl Body1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.003922 0.003529 0.003529
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Body 1.jpg
+map_Kd Body 1.jpg
+
+newmtl Body2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.003922 0.003529 0.003529
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Body 2.jpg
+map_Kd Body 2.jpg
+
+newmtl Track
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.045098 0.044706 0.044706
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Track.jpg
+map_Kd Track.jpg
+
+newmtl Turret
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.003922 0.003529 0.003529
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Turret.jpg
+map_Kd Turret.jpg
+
+newmtl Turret_2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.003922 0.003529 0.003529
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Turret 2.jpg
+map_Kd Turret 2.jpg

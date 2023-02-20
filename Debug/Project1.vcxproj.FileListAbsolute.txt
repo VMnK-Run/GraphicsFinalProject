@@ -1,0 +1,3 @@
+C:\Users\Zydii\Desktop\OpenGL_FinalProject\code\Debug\Project1.exe
+D:\TJU\22231\计算机图形技术\OpenGL_FinalProject-master\code\Debug\Project1.exe
+D:\TJU\22231\计算机图形技术\大作业\code\Debug\Project1.exe
